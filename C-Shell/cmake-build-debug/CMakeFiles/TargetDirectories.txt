@@ -1,0 +1,3 @@
+/home/aya/CLionProjects/Unix-shell-program/C-Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aya/CLionProjects/Unix-shell-program/C-Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aya/CLionProjects/Unix-shell-program/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir

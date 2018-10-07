@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aya/CLionProjects/Unix-shell-program/C-Shell/main.c
+stdio.h
+-
+stdlib.h
+-
+signal.h
+-
+stdint.h
+-
+stdio.h
+-
+string.h
+-
+
