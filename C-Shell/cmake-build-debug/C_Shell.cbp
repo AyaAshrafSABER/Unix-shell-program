@@ -81,6 +81,15 @@
 		<Unit filename="/home/aya/CLionProjects/Unix-shell-program/C-Shell/main.c">
 			<Option target="C_Shell"/>
 		</Unit>
+		<Unit filename="/home/aya/CLionProjects/Unix-shell-program/C-Shell/main.h">
+			<Option target="C_Shell"/>
+		</Unit>
+		<Unit filename="/home/aya/CLionProjects/Unix-shell-program/C-Shell/parser.cpp">
+			<Option target="C_Shell"/>
+		</Unit>
+		<Unit filename="/home/aya/CLionProjects/Unix-shell-program/C-Shell/parser.h">
+			<Option target="C_Shell"/>
+		</Unit>
 		<Unit filename="/home/aya/CLionProjects/Unix-shell-program/C-Shell/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
