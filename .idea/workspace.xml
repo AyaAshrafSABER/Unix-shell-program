@@ -12,20 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdcc5b2e-d67e-4693-9c4d-de61b438ebbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/C-Shell/main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C-Shell/parser.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C-Shell/parser.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/C_Shell.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/C_Shell" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/C_Shell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C-Shell/cmake-build-debug/C_Shell.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/cmake-build-debug/C_Shell.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C-Shell/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C-Shell/parser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C-Shell/parser.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/C-Shell/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,30 +42,30 @@
         <counts>
           <entry key="C_Shell" value="1" />
           <entry key="c" value="1" />
-          <entry key="cpp" value="3" />
-          <entry key="h" value="7" />
+          <entry key="cpp" value="4" />
+          <entry key="h" value="8" />
           <entry key="md" value="1" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ObjectiveC" value="11" />
+          <entry key="ObjectiveC" value="13" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="600" />
-          <entry key="cpp" value="1047" />
+          <entry key="c" value="1181" />
+          <entry key="cpp" value="1625" />
           <entry key="h" value="422" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="2069" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="ObjectiveC" value="3228" />
+          <entry key="PLAIN_TEXT" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
@@ -83,41 +74,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/C-Shell/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C-Shell/main.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding>
-                <element signature="e#84#102#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C-Shell/parser.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C-Shell/cmake-build-debug/log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="570">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -125,16 +86,21 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ayasaberosman &lt;ayasaberosman@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/C-Shell/parser.h" />
-        <option value="$PROJECT_DIR$/C-Shell/parser.cpp" />
         <option value="$PROJECT_DIR$/C-Shell/cmake-build-debug/log.txt" />
-        <option value="$PROJECT_DIR$/C-Shell/main.c" />
         <option value="$PROJECT_DIR$/C-Shell/main.h" />
+        <option value="$PROJECT_DIR$/C-Shell/parser.cpp" />
+        <option value="$PROJECT_DIR$/C-Shell/main.c" />
       </list>
     </option>
   </component>
@@ -167,19 +133,6 @@
               <item name="C_Shell" type="b2602c69:ProjectViewProjectNode" />
               <item name="Unix-shell-program" type="462c0819:PsiDirectoryNode" />
               <item name="C-Shell" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C_Shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Unix-shell-program" type="462c0819:PsiDirectoryNode" />
-              <item name="C-Shell" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C_Shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Unix-shell-program" type="462c0819:PsiDirectoryNode" />
-              <item name="C-Shell" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-              <item name="CMakeFiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,16 +187,32 @@
       <workItem from="1538929092689" duration="2340000" />
       <workItem from="1539155022540" duration="4750000" />
       <workItem from="1539234204964" duration="2139000" />
-      <workItem from="1539250994791" duration="9564000" />
+      <workItem from="1539250994791" duration="12792000" />
     </task>
+    <task id="LOCAL-00001" summary="c-shell handle backgroud process and add file shell">
+      <created>1539263160395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539263160395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18793000" />
+    <option name="totallyTimeSpent" value="22021000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="7" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -254,13 +223,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -273,6 +242,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="c-shell handle backgroud process and add file shell" />
+    <option name="LAST_COMMIT_MESSAGE" value="c-shell handle backgroud process and add file shell" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -281,47 +254,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C-Shell/parser.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#88#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/C-Shell/cmake-build-debug/C_Shell">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/C-Shell/parser.cpp">
+    <entry file="file://$PROJECT_DIR$/C-Shell/cmake-build-debug/log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C-Shell/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C-Shell/main.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="e#84#102#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C-Shell/cmake-build-debug/log.txt">
+    <entry file="file://$PROJECT_DIR$/C-Shell/parser.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#88#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C-Shell/parser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C-Shell/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
         </state>
       </provider>
     </entry>
